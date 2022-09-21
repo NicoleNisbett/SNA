@@ -1,5 +1,7 @@
 
 /Retweets
+/Merged
+/Projections
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
